@@ -87,7 +87,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohd-shaqib-raza/)
 - 📧 Email: iammsr19413m@gmail.com
-- 🌐 Portfolio: [mohd-shaqib-raza.vercel.app](https://mohd-shaqib-raza.vercel.app/)
+- 🌐 Portfolio: [Mohd. Shaqib Raza](https://mohd-shaqib-raza.vercel.app/)
 
 ---
 
