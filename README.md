@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Mohd. Shaqib Raza 👋</h1>
 
 <p align="center">
-  🚀 Full-Stack Web Developer | 🎓 B.Tech CSE | 💡 Problem Solver | 💼 Freelancer
+  Full-Stack Developer | MERN | Freelancer | Java | C++ | JavaScript | React.js | Node.js | Express.js | MongoDB | UI/UX Architect & Strategist | Aspiring [CSE] Engineer®
 </p>
 
 ---
