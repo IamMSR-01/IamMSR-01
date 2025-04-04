@@ -10,7 +10,7 @@
 - 🧑‍🎓 B.Tech student at J.B. Institute of Technology, Dehradun  
 - 🛠️ Building real-world projects using **MERN Stack**  
 - 🌐 Passionate about creating **scalable, secure, and beautiful web apps**  
-- 💬 Always learning & exploring **DSA, Backend, Open Source & SaaS Ideas**
+- 💬 Always learning & exploring **DSA, Frontend, Backend, Open Source & SaaS Ideas**
 
 ---
 
