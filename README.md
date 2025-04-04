@@ -22,33 +22,60 @@
 
 ---
 
+### ⚙️ Languages and Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
+</p>
+
+---
+
 ### 🧩 Featured Projects
 
 #### 🔹 [Hotel Booking System](https://github.com/IamMSR-01/Hotel-Management)
 > Backend with full **CRUD**, **JWT Authentication**, **Role-based Access**, and **Booking logic**
 
 #### 🔹 [VideoTube - Scalable Video Sharing Platform](https://github.com/IamMSR-01/Youtube-clone-backend)
-> Built a backend of YouTube-like video-sharing platform, allowing users to upload, manage, and interact with videos seamlessly. Implemented robust **authentication**, **video processing**, **playlists**, **subscriptions**, **likes**, **comments**, and **analytics** for an engaging experience.
+> YouTube-like backend with **authentication**, **video processing**, **playlists**, **likes**, **comments**, and **analytics**
 
 #### 🔹 [BlogNest - Your Space to Write, Share, and Inspire](https://blog-app-orpin-rho.vercel.app/)
-> Developed a **real-time blogging platform** that enables **200+ users** to seamlessly **create**, **manage**, and **publish content**. Optimized **database queries**, **reducing response time by 15%**, and **implemented role-based access control for enhanced security.**
+> Real-time blogging platform with **200+ users**, optimized **DB queries**, and **role-based access control**
 
 #### 🔹 [Crypto Tracker – Real-time Cryptocurrency Monitoring](https://crypto-tracker-raza.vercel.app/)
-> Developed a **real-time cryptocurrency tracking web app** that fetches **live market data and trends** from the **Coin Gecko API**. Integrated interactive visualizations for an enhanced user experience.
+> Live crypto market data using **Coin Gecko API** with **interactive charts**
 
-#### 🔹 [World Atlas – A Global Country Information Web Application](https://world-atlas-ivory.vercel.app/)
-> World Atlas is an interactive web application that provides **detailed information about countries worldwide**. Developed as a beginner frontend project, it allows users to **search, sort, and filter countries based on region.** The app is designed to be user-friendly, **fully responsive**, and offers a seamless experience across devices.
+#### 🔹 [World Atlas – Country Info Web App](https://world-atlas-ivory.vercel.app/)
+> Responsive app with **search, sort, filter**, and **region-based country info**
 
 #### 🔹 [Real-Time Currency Converter](https://currency-converter-gamma-two-92.vercel.app/)
-> Developed a **real-time currency converter** that enables users to convert between multiple currencies with **live exchange rates**, ensuring **accurate and up-to-date** conversions.
+> Live currency conversion with real-time exchange rates
+
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IamMSR-01&show_icons=true&theme=github_dark" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IamMSR-01&theme=github-dark"/>
 </p>
 
+---
+
+### 📈 Top Languages Used
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamMSR-01&layout=compact&theme=github_dark" />
+</p>
 
 ---
 
@@ -56,10 +83,9 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohd-shaqib-raza/)
 - 📧 Email: iammsr19413m@gmail.com
-- 🌐 Portfolio: [Mohd. Shaqib Raza](https://mohd-shaqib-raza.vercel.app/)
+- 🌐 Portfolio: [mohd-shaqib-raza.vercel.app](https://mohd-shaqib-raza.vercel.app/)
 
 ---
 
 > *“Keep grinding until you no longer need to introduce yourself.”*  
 > — Mohd. Shaqib Raza
-
