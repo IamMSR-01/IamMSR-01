@@ -48,8 +48,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IamMSR-01&show_icons=true&theme=github_dark" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IamMSR-01&theme=github-dark"/>
+  <img src="https://github-readme-streak-stats.vercel.app/?user=IamMSR-01&theme=github-dark"/>
 </p>
+
 
 ---
 
