@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Mohd. Shaqib Raza 👋</h1>
 
 <p align="center">
-  🚀 Full-Stack Web Developer | 🎓 B.Tech CSE | 💡 Problem Solver | 💼 Freelancer in Progress
+  🚀 Full-Stack Web Developer | 🎓 B.Tech CSE | 💡 Problem Solver | 💼 Freelancer
 </p>
 
 ---
@@ -46,9 +46,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IamMSR-01&show_icons=true&theme=github_dark" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=github-dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IamMSR-01&theme=github-dark"/>
 </p>
 
 ---
