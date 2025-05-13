@@ -18,7 +18,7 @@
 
 | Frontend | Backend | Database | Tools |
 |---------|---------|----------|-------|
-| HTML, CSS, JS, React, Tailwind | Node.js, Express.js | Socket IO | MongoDB | Git, GitHub, Postman, VS Code |
+| HTML, CSS, JS, React, Tailwind | Node.js, Express.js, Socket IO | MongoDB | Git, GitHub, Postman, VS Code |
 
 ---
 
@@ -39,6 +39,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="40" height="40" alt="Socket IO"/>
 </p>
 
 ---
