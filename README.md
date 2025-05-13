@@ -18,7 +18,7 @@
 
 | Frontend | Backend | Database | Tools |
 |---------|---------|----------|-------|
-| HTML, CSS, JS, React, Tailwind | Node.js, Express.js | MongoDB | Git, GitHub, Postman, VS Code |
+| HTML, CSS, JS, React, Tailwind | Node.js, Express.js | Socket IO | MongoDB | Git, GitHub, Postman, VS Code |
 
 ---
 
