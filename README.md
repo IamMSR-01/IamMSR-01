@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Mohd. Shaqib Raza 👋</h1>
 
 <p align="center">
-  Full-Stack Developer | MERN | Freelancer | Java | C++ | JavaScript | React.js | Node.js | Express.js | MongoDB | UI/UX Architect & Strategist | Aspiring [CSE] Engineer®
+  Full-Stack Developer | MERN | Freelancer | Java | C++ | JavaScript | React.js | Node.js | Express.js | MongoDB | Socket.io | UI/UX Architect & Strategist | Aspiring [CSE] Engineer®
 </p>
 
 ---
@@ -49,7 +49,7 @@
 #### 🔹 [Chattrix – A Real-Time Chat Application](https://github.com/IamMSR-01/Chat-App)  
 > **Chattrix** is a feature-rich real-time chat application built with **Socket.IO** and the **MERN stack**.  
 > 💬 Key Features:  
-> - One-to-one and group messaging  
+> - One-to-one messaging  
 > - Typing indicators & real-time delivery  
 > - Media sharing support (Images & Files)  
 > - JWT-based authentication and role management  
@@ -64,25 +64,67 @@
 > - Job recommendations tailored to user skills  
 > - Secure JWT authentication and role-based access  
 > - Payment gateway integration & curated learning resources  
-> Serving **1000+ students** already, this platform is a step towards empowering the next-gen learners.
+> Serving 1000+ students already, this platform is a step towards empowering the next-gen learners.
 
 #### 🔹 [Hotel Booking System](https://github.com/IamMSR-01/Hotel-Management)
+> A MERN stack-based backend for a hotel room booking system.
 > Backend with full **CRUD**, **JWT Authentication**, **Role-based Access**, and **Booking logic**
+> 🏨 Key Features:
+> - Full CRUD operations for hotels, rooms, and bookings
+> - JWT-based authentication and role-based authorization
+> - Room availability management
+> - RESTful API architecture with error handling and data validation
+> - Designed to power dynamic hotel booking web apps with real-time backend functionality.
 
 #### 🔹 [VideoTube - Scalable Video Sharing Platform](https://github.com/IamMSR-01/Youtube-clone-backend)
 > YouTube-like backend with **authentication**, **video processing**, **playlists**, **likes**, **comments**, and **analytics**
+> A backend system inspired by YouTube, focusing on scalable video sharing.
+> 📹 Features include:
+> - User authentication, profile & channel management
+> - Upload, update & delete video content
+> - Interactive features like likes, comments, playlists, history
+> - Backend analytics & engagement tracking
+> - Built for performance and designed to handle video-centric platforms efficiently.
 
 #### 🔹 [BlogNest - Your Space to Write, Share, and Inspire](https://blog-app-orpin-rho.vercel.app/)
 > Real-time blogging platform with **200+ users**, optimized **DB queries**, and **role-based access control**
+> A fully functional real-time blogging platform for creators and readers.
+> 📝 Core Highlights:
+> - 200+ active users with secure login & profile handling
+> - Create, edit, delete & share blogs in real-time
+> - Optimized database queries for scalability
+> - Rich-text editor and role-based access for user/blog control
+> - A creative space to publish and explore impactful writing.
 
 #### 🔹 [Crypto Tracker – Real-time Cryptocurrency Monitoring](https://crypto-tracker-raza.vercel.app/)
 > Live crypto market data using **Coin Gecko API** with **interactive charts**
+> A responsive web app to monitor global crypto prices and market stats.
+> 💹 Main Features:
+> - Real-time cryptocurrency data using CoinGecko API
+> - Clean UI with interactive graphs and charts
+> - Search, filter, and detailed coin info
+> - Fully responsive design built with React and Chart.js
+> - Perfect for tracking crypto trends in a visually engaging way.
 
 #### 🔹 [World Atlas – Country Info Web App](https://world-atlas-ivory.vercel.app/)
 > Responsive app with **search, sort, filter**, and **region-based country info**
+> A beautiful and informative tourism-focused country directory.
+> 🌍 Feature Set:
+> - Fetches and displays country details: population, region, flag, etc.
+> - Powerful search, sort & filter options
+> - Region-wise categorization (Asia, Europe, etc.)
+> - Built using React.js, REST API, and Tailwind CSS
+> - Ideal for travelers, geography students, and curious minds.
 
 #### 🔹 [Real-Time Currency Converter](https://currency-converter-gamma-two-92.vercel.app/)
 > Live currency conversion with real-time exchange rates
+> A lightweight yet powerful currency converter web app.
+> 💱 Core Capabilities:
+> - Real-time exchange rates using live APIs
+> - Conversion between 150+ global currencies
+> - Clean UX with instant result rendering
+> - Built using React, Axios, and Tailwind CSS
+> - A handy tool for travelers and finance enthusiasts alike.
 
 ---
 
