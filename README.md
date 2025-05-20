@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 - 🧑‍🎓 B.Tech student at J.B. Institute of Technology, Dehradun  
-- 🛠️ Building real-world projects using **MERN Stack**  
+- 🛠️ Building real-world projects using **MERN Stack**  | **Socket.io**
 - 🌐 Passionate about creating **scalable, secure, and beautiful web apps**  
 - 💬 Always learning & exploring **DSA, Frontend, Backend, Open Source & SaaS Ideas**
 
@@ -45,6 +45,26 @@
 ---
 
 ### 🧩 Featured Projects
+
+#### 🔹 [Chattrix – A Real-Time Chat Application](https://github.com/IamMSR-01/Chattrix)  
+> **Chattrix** is a feature-rich real-time chat application built with **Socket.IO** and the **MERN stack**.  
+> 💬 Key Features:  
+> - One-to-one and group messaging  
+> - Typing indicators & real-time delivery  
+> - Media sharing support (Images & Files)  
+> - JWT-based authentication and role management  
+> - Clean, mobile-responsive UI with Tailwind  
+> A complete full-stack project demonstrating modern real-time communication at scale.
+
+#### 🔹 [StudentX – A Student Learning Platform](https://github.com/IamMSR-01/StudentX)  
+> **StudentX** is an AI-powered **MERN stack** platform crafted to help students discover careers, enhance skills, and unlock job opportunities.  
+> 🚀 Features include:  
+> - AI-generated career roadmaps  
+> - Smart resume optimization using AI  
+> - Job recommendations tailored to user skills  
+> - Secure JWT authentication and role-based access  
+> - Payment gateway integration & curated learning resources  
+> Serving **1000+ students** already, this platform is a step towards empowering the next-gen learners.
 
 #### 🔹 [Hotel Booking System](https://github.com/IamMSR-01/Hotel-Management)
 > Backend with full **CRUD**, **JWT Authentication**, **Role-based Access**, and **Booking logic**
