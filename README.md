@@ -47,7 +47,8 @@
 ### 🧩 Featured Projects
 
 #### 🔹 [Chattrix – A Real-Time Chat Application](https://github.com/IamMSR-01/Chat-App)  
-> **Chattrix** is a feature-rich real-time chat application built with **Socket.IO** and the **MERN stack**.  
+> **Chattrix** is a feature-rich real-time chat application built with **Socket.IO** and the **MERN stack**.
+> 
 > 💬 Key Features:  
 > - One-to-one messaging  
 > - Typing indicators & real-time delivery  
@@ -57,7 +58,8 @@
 > A complete full-stack project demonstrating modern real-time communication at scale.
 
 #### 🔹 [StudentX – A Student Learning Platform](https://github.com/IamMSR-01/studentx)  
-> **StudentX** is an AI-powered **MERN stack** platform crafted to help students discover careers, enhance skills, and unlock job opportunities.  
+> **StudentX** is an AI-powered **MERN stack** platform crafted to help students discover careers, enhance skills, and unlock job opportunities.
+>  
 > 🚀 Features include:  
 > - AI-generated career roadmaps  
 > - Smart resume optimization using AI  
@@ -68,7 +70,8 @@
 
 #### 🔹 [Hotel Booking System](https://github.com/IamMSR-01/Hotel-Management)
 > A MERN stack-based backend for a hotel room booking system.
-> Backend with full **CRUD**, **JWT Authentication**, **Role-based Access**, and **Booking logic**
+> Backend with full **CRUD**, **JWT Authentication**, **Role-based Access**, and **Booking logic**.
+> 
 > 🏨 Key Features:
 > - Full CRUD operations for hotels, rooms, and bookings
 > - JWT-based authentication and role-based authorization
@@ -77,8 +80,9 @@
 > - Designed to power dynamic hotel booking web apps with real-time backend functionality.
 
 #### 🔹 [VideoTube - Scalable Video Sharing Platform](https://github.com/IamMSR-01/Youtube-clone-backend)
-> YouTube-like backend with **authentication**, **video processing**, **playlists**, **likes**, **comments**, and **analytics**
+> YouTube-like backend with **authentication**, **video processing**, **playlists**, **likes**, **comments**, and **analytics**.
 > A backend system inspired by YouTube, focusing on scalable video sharing.
+> 
 > 📹 Features include:
 > - User authentication, profile & channel management
 > - Upload, update & delete video content
@@ -89,6 +93,7 @@
 #### 🔹 [BlogNest - Your Space to Write, Share, and Inspire](https://blog-app-orpin-rho.vercel.app/)
 > Real-time blogging platform with **200+ users**, optimized **DB queries**, and **role-based access control**
 > A fully functional real-time blogging platform for creators and readers.
+> 
 > 📝 Core Highlights:
 > - 200+ active users with secure login & profile handling
 > - Create, edit, delete & share blogs in real-time
@@ -99,6 +104,7 @@
 #### 🔹 [Crypto Tracker – Real-time Cryptocurrency Monitoring](https://crypto-tracker-raza.vercel.app/)
 > Live crypto market data using **Coin Gecko API** with **interactive charts**
 > A responsive web app to monitor global crypto prices and market stats.
+> 
 > 💹 Main Features:
 > - Real-time cryptocurrency data using CoinGecko API
 > - Clean UI with interactive graphs and charts
@@ -109,6 +115,7 @@
 #### 🔹 [World Atlas – Country Info Web App](https://world-atlas-ivory.vercel.app/)
 > Responsive app with **search, sort, filter**, and **region-based country info**
 > A beautiful and informative tourism-focused country directory.
+> 
 > 🌍 Feature Set:
 > - Fetches and displays country details: population, region, flag, etc.
 > - Powerful search, sort & filter options
@@ -119,6 +126,7 @@
 #### 🔹 [Real-Time Currency Converter](https://currency-converter-gamma-two-92.vercel.app/)
 > Live currency conversion with real-time exchange rates
 > A lightweight yet powerful currency converter web app.
+> 
 > 💱 Core Capabilities:
 > - Real-time exchange rates using live APIs
 > - Conversion between 150+ global currencies
