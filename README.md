@@ -46,7 +46,7 @@
 
 ### 🧩 Featured Projects
 
-#### 🔹 [Chattrix – A Real-Time Chat Application](https://github.com/IamMSR-01/Chattrix)  
+#### 🔹 [Chattrix – A Real-Time Chat Application](https://github.com/IamMSR-01/Chat-App)  
 > **Chattrix** is a feature-rich real-time chat application built with **Socket.IO** and the **MERN stack**.  
 > 💬 Key Features:  
 > - One-to-one and group messaging  
@@ -56,7 +56,7 @@
 > - Clean, mobile-responsive UI with Tailwind  
 > A complete full-stack project demonstrating modern real-time communication at scale.
 
-#### 🔹 [StudentX – A Student Learning Platform](https://github.com/IamMSR-01/StudentX)  
+#### 🔹 [StudentX – A Student Learning Platform](https://github.com/IamMSR-01/studentx)  
 > **StudentX** is an AI-powered **MERN stack** platform crafted to help students discover careers, enhance skills, and unlock job opportunities.  
 > 🚀 Features include:  
 > - AI-generated career roadmaps  
