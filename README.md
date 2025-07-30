@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, I'm Mohd. Shaqib Raza <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-
+<h1 align="center">Hi there, I'm Mohd. Shaqib Raza <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Waving Hand Emoji" width="45" height="45"></h1>
 <p align="center">
   Full-Stack Developer | MERN | Freelancer | Java | C++ | JavaScript | React.js | Node.js | Express.js | MongoDB | Socket.io | UI/UX Architect & Strategist | Aspiring [CSE] Engineer®
 </p>
