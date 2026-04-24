@@ -1,6 +1,9 @@
-<h1 align="center">Hi there, I'm Mohd. Shaqib Raza <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Waving Hand Emoji" width="45" height="45"></h1>
+<h1 align="center">
+  Hi there, I'm Mohd. Shaqib Raza 
+  <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" width="35"/>
+</h1>
 <p align="center">
-  Full-Stack Developer | Next.js | MERN | Freelancer | Java | C++ | JavaScript | TypeScript | React.js | Node.js | Express.js | MongoDB | Socket.io | UI/UX Architect & Strategist | Aspiring [CSE] Engineer®
+  Full-Stack Developer® | Next.js | MERN | Freelancer | Java | C++ | JavaScript | TypeScript | React.js | Node.js | Express.js | MongoDB | Postgres | Drizzle | Socket.io | UI/UX Architect & Strategist | Aspiring [CSE] Engineer®
 </p>
 
 ---
@@ -23,22 +26,26 @@
 
 ### ⚙️ Languages and Tools
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" font-white height="40" alt="Express"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="40" height="40" alt="Socket IO"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="Socket.io"/>
+  
+  <!-- drizzle custom badge -->
+  <img src="https://img.shields.io/badge/Drizzle-ORM-black?style=flat&logo=postgresql" height="30" alt="Drizzle ORM"/>
 </p>
 
 ---
@@ -57,6 +64,28 @@
 > - Toggle message acceptance status with real-time database updates.  
 > - AI-powered message suggestions using the Vercel AI SDK and Google Gemini.  
 > This project demonstrates a complete, modern full-stack workflow, from user authentication to database management and AI integration, all deployed on Vercel.
+
+#### 🔹 [OIDC Authentication Server – OpenID Connect Provider](https://github.com/IamMSR-01/OIDC-Authentication)
+> A fully functional **OpenID Connect (OIDC) Authentication Server** built from scratch using **Node.js, Express, PostgreSQL, and Drizzle ORM**.
+>
+> 🔐 Key Features:
+> - Complete **Authorization Code Flow (OIDC)** implementation  
+> - Secure **JWT (RS256)** based authentication using public/private key cryptography  
+> - User authentication system (Sign-up / Sign-in with hashed passwords)  
+> - **Access Token + ID Token** generation  
+> - Protected **UserInfo endpoint** with middleware-based authentication  
+> - **JWKS (JSON Web Key Set)** & OIDC discovery endpoints  
+> - Modular backend architecture (**Controller → Service → Validation → Routes**)  
+> - PostgreSQL + Drizzle ORM for type-safe database operations  
+>
+> ⚙️ OIDC Flow:
+> ```
+> Client → /authorize → login → code  
+> Client → /token → exchange code → access_token + id_token  
+> Client → /userinfo → fetch user data  
+> ```
+>
+> 🧠 This project demonstrates deep understanding of **authentication systems, OAuth2/OIDC protocols, and scalable backend architecture**, making it a production-grade backend system.
 
 #### 🔹 [Chattrix – A Real-Time Chat Application](https://github.com/IamMSR-01/Chat-App)  
 > **Chattrix** is a feature-rich real-time chat application built with **Socket.IO** and the **MERN stack**.
