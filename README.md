@@ -20,7 +20,7 @@
 
 | Frontend | Backend | Database | Tools |
 |---|---|---|---|
-| **HTML**, **CSS**, **JS**, **React.js**, **Next.js**, **Tailwind** | **Node.js**, **Express.js**, **Socket IO** | **MongoDB** | **Git**, **GitHub**, **Postman**, **VS Code** |
+| **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React.js**, **Next.js**, **Tailwind-CSS** | **Node.js**, **Express.js**, **TypeScript**, **Socket IO** | **MongoDB**, **Postgres**, **MySQL** | **Docker**, **Drizzle**, **Git**, **GitHub**, **Postman**, **VS Code** |
 
 ---
 
@@ -33,8 +33,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express"/>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
@@ -44,7 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="Socket.io"/>
   
-  <!-- drizzle custom badge -->
+  <!-- drizzle badge -->
   <img src="https://img.shields.io/badge/Drizzle-ORM-black?style=flat&logo=postgresql" height="30" alt="Drizzle ORM"/>
 </p>
 
