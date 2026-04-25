@@ -3,7 +3,7 @@
   <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" width="35"/>
 </h1>
 <p align="center">
-  Full-Stack Developer® | Next.js | MERN | Freelancer | Java | C++ | JavaScript | TypeScript | React.js | Node.js | Express.js | MongoDB | Postgres | Drizzle | Socket.io | UI/UX Architect & Strategist | Aspiring [CSE] Engineer®
+  Full-Stack Developer® | Next.js | MERN | Freelancer | Java | JavaScript | TypeScript | React.js | Node.js | Express.js | MongoDB | PostgreSQL | MySQL | Drizzle | Socket.io | Docker | UI/UX Architect & Strategist | Aspiring [CSE] Engineer®
 </p>
 
 ---
