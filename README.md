@@ -3,7 +3,7 @@
   <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" width="35"/>
 </h1>
 <p align="center">
-  Full-Stack Developer® | Next.js | MERN | Freelancer | Java | JavaScript | TypeScript | React.js | Node.js | Express.js | MongoDB | PostgreSQL | MySQL | Drizzle | Socket.io | Docker | UI/UX Architect & Strategist | Aspiring [CSE] Engineer®
+  SDE Intern at NBR New IT Systems Private Limited | Full-Stack Developer® | Next.js | MERN | Freelancer | Java | JavaScript | TypeScript | React.js | Node.js | Express.js | MongoDB | PostgreSQL | MySQL | Drizzle | Socket.io | Docker | UI/UX Architect & Strategist | Aspiring [CSE] Engineer®
 </p>
 
 ---
@@ -69,35 +69,24 @@
 
 ### 🧩 Featured Projects
 
-#### 🔹 [Trend – Microservice-Based E-Commerce Platform](https://github.com/shaqibraza/Ecommerce-with-Microservices)
->
-> **[Live Demo]()**
->
-> **[GitHub](https://github.com/shaqibraza/Ecommerce-with-Microservices)**
->
-> A full-stack, **event-driven e-commerce platform** built as a **Turborepo monorepo**, combining four independent backend microservices with two **Next.js 15** frontends — a customer storefront and an admin dashboard — connected via **Apache Kafka**.
->
-> 🛒 Key Features:
-> - Polyglot microservices: **product-service (Express 5 + Prisma + PostgreSQL)**, **order-service (Fastify 5 + Mongoose + MongoDB)**, **payment-service (Hono + Razorpay)**, **auth-service (Express 5 + Clerk)**
-> - Event-driven checkout pipeline: `payment.successful` → `order.created` → automated email confirmation via a dedicated Kafka-consumer email service
-> - Razorpay integration with HMAC signature verification + webhook-based payment confirmation
-> - Role-based access control (Admin/User) via **Clerk JWT** session claims, enforced across Next.js middleware and backend services
-> - Shared `@repo/types` package with **Zod** schemas for type-safe validation across the entire monorepo
-> - Admin dashboard with real-time analytics (order trends, success rates) using **TanStack Query/Table + Recharts**
-> - 3-broker **Apache Kafka (KRaft)** cluster with Docker Compose + Kafka UI for monitoring
->
-> ⚙️ Checkout Flow:
-> ```
-> Client → payment-service (/create-order, /verify-payment)
->        → Kafka: payment.successful
->        → order-service (persist order, emit order.created)
->        → email-service (send confirmation)
-> ```
->
-> 🧠 This project demonstrates **distributed systems design, async messaging architecture, polyglot persistence, and cross-service authentication**, reflecting production-grade microservice patterns.
->
-> **Tech Stack:** TypeScript, Next.js 15, React 19, Express 5, Fastify 5, Hono 4, Apache Kafka (KafkaJS), PostgreSQL, MongoDB, Prisma, Mongoose, Clerk, Razorpay, Zod, Tailwind CSS 4, Turborepo + pnpm
+#### 🔹 [QueryFlow — AI-Powered Natural Language Database Assistant](https://github.com/shaqibraza/queryflow)
 
+> **[Live Demo](https://queryflow-web.vercel.app/)** · 
+> **[GitHub](https://github.com/shaqibraza/queryflow)**
+
+Connect any database and query it in plain English — no SQL required.
+
+🤖 **Key Highlights:**
+- 4 independently deployed microservices on Render + Vercel
+- Google Gemini API converts natural language → validated SQL
+- Supports PostgreSQL, MySQL, and MongoDB connections
+- Production-grade auth: JWT, HTTP-only cookies, refresh token rotation, bcrypt, OTP verification
+- Encrypted database credential storage
+- Turborepo monorepo with shared TypeScript types across all services
+
+> *The most technically complex project in my portfolio — 
+> demonstrates AI integration, microservice architecture, 
+> security engineering, and cloud deployment in one system.*
 
 #### 🔹 [OIDC Authentication Server – OpenID Connect Provider](https://github.com/IamMSR-01/OIDC-Authentication)
 >
@@ -160,47 +149,6 @@
 > - Clean, mobile-responsive UI with Tailwind  
 > A complete full-stack project demonstrating modern real-time communication at scale.
 
-#### 🔹 [StudentX – A Student Learning Platform](https://github.com/IamMSR-01/studentx)
-
-> **[GitHub](https://github.com/IamMSR-01/studentx)**
-> 
-> **StudentX** is an AI-powered **MERN stack** platform crafted to help students discover careers, enhance skills, and unlock job opportunities.
->  
-> 🚀 Features include:  
-> - AI-generated career roadmaps  
-> - Smart resume optimization using AI  
-> - Job recommendations tailored to user skills  
-> - Secure JWT authentication and role-based access  
-> - Payment gateway integration & curated learning resources  
-> Serving 1000+ students already, this platform is a step towards empowering the next-gen learners.
-
-#### 🔹 [Hotel Booking System](https://github.com/IamMSR-01/Hotel-Management)
->
-> **[GitHub](https://github.com/IamMSR-01/Hotel-Management)**
-> 
-> A MERN stack-based backend for a hotel room booking system.
-> Backend with full **CRUD**, **JWT Authentication**, **Role-based Access**, and **Booking logic**.
-> 
-> 🏨 Key Features:
-> - Full CRUD operations for hotels, rooms, and bookings
-> - JWT-based authentication and role-based authorization
-> - Room availability management
-> - RESTful API architecture with error handling and data validation
-> - Designed to power dynamic hotel booking web apps with real-time backend functionality.
-
-#### 🔹 [VideoTube - Scalable Video Sharing Platform](https://github.com/IamMSR-01/Youtube-clone-backend)
->
-> **[GitHub](https://github.com/IamMSR-01/Youtube-clone-backend)**
->
-> YouTube-like backend with **authentication**, **video processing**, **playlists**, **likes**, **comments**, and **analytics**.
-> A backend system inspired by YouTube, focusing on scalable video sharing.
-> 
-> 📹 Features include:
-> - User authentication, profile & channel management
-> - Upload, update & delete video content
-> - Interactive features like likes, comments, playlists, history
-> - Backend analytics & engagement tracking
-> - Built for performance and designed to handle video-centric platforms efficiently.
 
 #### 🔹 [BlogNest - Your Space to Write, Share, and Inspire](https://blog-app-orpin-rho.vercel.app/)
 >
@@ -217,52 +165,6 @@
 > - Optimized database queries for scalability
 > - Rich-text editor and role-based access for user/blog control
 > - A creative space to publish and explore impactful writing.
-
-#### 🔹 [Crypto Tracker – Real-time Cryptocurrency Monitoring](https://crypto-tracker-raza.vercel.app/)
->
-> **[Live Link](https://crypto-tracker-raza.vercel.app/)**
->
-> **[GitHub](https://github.com/shaqibraza/Crypto-tracker)**
->
-> Live crypto market data using **Coin Gecko API** with **interactive charts**
-> A responsive web app to monitor global crypto prices and market stats.
-> 
-> 💹 Main Features:
-> - Real-time cryptocurrency data using CoinGecko API
-> - Clean UI with interactive graphs and charts
-> - Search, filter, and detailed coin info
-> - Fully responsive design built with React and Chart.js
-> - Perfect for tracking crypto trends in a visually engaging way.
-
-#### 🔹 [World Atlas – Country Info Web App](https://world-atlas-ivory.vercel.app/)
->
-> **[Live Link](https://world-atlas-ivory.vercel.app/)**
->
-> **[GitHub](https://github.com/shaqibraza/World-Atlas)**
->
-> Responsive app with **search, sort, filter**, and **region-based country info**
-> A beautiful and informative tourism-focused country directory.
-> 
-> 🌍 Feature Set:
-> - Fetches and displays country details: population, region, flag, etc.
-> - Powerful search, sort & filter options
-> - Region-wise categorization (Asia, Europe, etc.)
-> - Built using React.js, REST API, and Tailwind CSS
-> - Ideal for travelers, geography students, and curious minds.
-
-#### 🔹 [Real-Time Currency Converter](https://currency-converter-gamma-two-92.vercel.app/)
->
-> **[Live Link](https://currency-converter-gamma-two-92.vercel.app/)**
->
-> Live currency conversion with real-time exchange rates
-> A lightweight yet powerful currency converter web app.
-> 
-> 💱 Core Capabilities:
-> - Real-time exchange rates using live APIs
-> - Conversion between 150+ global currencies
-> - Clean UX with instant result rendering
-> - Built using React, Axios, and Tailwind CSS
-> - A handy tool for travelers and finance enthusiasts alike.
 
 ---
 
