@@ -3,7 +3,7 @@
   <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" width="35"/>
 </h1>
 <p align="center">
-  SDE Intern at NBR New IT Systems Private Limited | Full-Stack Developer® | Next.js | MERN | Freelancer | Java | JavaScript | TypeScript | React.js | Node.js | Express.js | MongoDB | PostgreSQL | MySQL | Drizzle | Socket.io | Docker | UI/UX Architect & Strategist | Aspiring [CSE] Engineer®
+  Software Engineer Intern @ NBR NEW IT SYSTEMS | Full-Stack Developer | TypeScript | Node.js | Next.js | PostgreSQL | MongoDB | Microservices | Building Production-Ready Systems
 </p>
 
 ---
