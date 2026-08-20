@@ -9,7 +9,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🧑‍🎓 B.Tech student at J.B. Institute of Technology, Dehradun
+- 🧑‍🎓 B.Tech student at JB Institute of Technology, Dehradun
 - 💻 Software Engineer Intern @ NBR NEW IT SYSTEMS, building real-world software and web applications
 - ⚙️ Full-Stack Engineer working with TypeScript, Node.js, Next.js, PostgreSQL & MongoDB
 - 🏗️ Interested in Microservices, System Design, Backend Engineering & Distributed Systems
