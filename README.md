@@ -9,10 +9,12 @@
 ---
 
 ### 👨‍💻 About Me
-- 🧑‍🎓 B.Tech student at J.B. Institute of Technology, Dehradun  
-- 🛠️ Building real-world projects using **Next.js** | **MERN Stack** | **Socket.io**
-- 🌐 Passionate about creating **scalable, secure, and beautiful web apps**
-- 💬 Always learning & exploring **DSA, Frontend, Backend, System Design, Open Source & SaaS Ideas**
+- 🧑‍🎓 B.Tech student at J.B. Institute of Technology, Dehradun
+- 💻 Software Engineer Intern @ NBR NEW IT SYSTEMS, building real-world software and web applications
+- ⚙️ Full-Stack Engineer working with TypeScript, Node.js, Next.js, PostgreSQL & MongoDB
+- 🏗️ Interested in Microservices, System Design, Backend Engineering & Distributed Systems
+- 🚀 Passionate about building scalable, secure, and production-ready applications
+- 📚 Continuously improving through DSA, Open Source, Software Architecture & SaaS projects
 
 ---
 
